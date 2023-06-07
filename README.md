@@ -1,6 +1,6 @@
 # "Skolai Gatavs!"
 ---
-### Source code spēlei "Skolai Gatavs!", kuras mērķis ir papildināt zināšanas pirmsskolas bērniem, kas drīzumā sāk mācības skolās.
+### Source code spēlei "Skolai Gatavs!", kuras mērķis ir papildināt un nostiprināt zināšanas pirmsskolas bērniem, kas drīzumā sāk mācības skolās.
 ***
 ## Spēli izstrādāja:
 | Vārds Uzvārds | Github lietotājvārds |
