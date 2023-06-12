@@ -1,0 +1,44 @@
+@import "fonts/montserrat.css";
+@import "fonts/stratum2.css";
+@import "fonts/Inconsolata.css";
+html,
+body,
+#root {
+  width: 100%;
+  height: 90%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inconsolata', 'Stratum2', 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'Louis George Cafe';
+  src: local('Louis George Cafe'), url('./fonts/Louis George Cafe.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rounded_Elegance';
+  src: local('Rounded_Elegance'), url('./fonts/Rounded_Elegance.ttf') format('truetype');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --main-panel-color: #9CFF9C;
+  --sub-pnale-color: #006633; /* Izmantojams arī priekš Stroke fx pogām*/
+  --button-color: #00cc66;
+  --white-full: rgba(250, 250, 250, 1); /* Tīri balta krāsa nav laba! */
+  --white-half: rgba(250, 250, 250, 0.5);
+
+  --project_blue: #18D0F9;
+  --project_yellow: #f6ed0e;
+  --project_green: #20ed1c;
+  --project_red: #eb1a1a;
+}

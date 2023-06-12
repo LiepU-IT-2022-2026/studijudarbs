@@ -1,0 +1,78 @@
+@import "../index.css";
+
+/* OUTLINE VISIEM ELEMENTIEM */
+
+
+button {
+	max-width: 100%;
+	height: 960;
+}
+
+#Pirmais_burts {
+  background-image: url(../bildes/Pirmais_burts.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+#Alfabets {
+  background-image: url(../bildes/Alfabets.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+#Lielais_mazais_burts {
+  background-image: url(../bildes/Lielais_mazais_burts.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+#skaitlu_starpiba_5 {
+  background-image: url(../bildes/skaitlu_starpiba_5.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+#skaitlu_starpiba_10 {
+  background-image: url(../bildes/skaitlu_starpiba_10.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+#skaitlu_summa_5 {
+  background-image: url(../bildes/skaitlu_summa_5.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+#skaitlu_summa_10 {
+  background-image: url(../bildes/skaitlu_summa_10.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+#blakus_esosie {
+  background-image: url(../bildes/blakus_esosie.png);
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+
+/*body {
+	background-repeat:no-repeat;
+	background-position:center;
+  width: 100%;
+  height: 100%;
+}*/
+
+div {
+  float: left;
+	background-repeat:no-repeat;
+	background-position:center;
+}

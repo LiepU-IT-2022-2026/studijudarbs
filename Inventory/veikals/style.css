@@ -1,0 +1,15 @@
+@import "../../index.css";
+
+body {	
+	background-image: url("./SHOPINPROGRESS_22.png");
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*height: 100vh;*/
+  margin-top: 28%;
+  margin-left: 22%;  
+}
