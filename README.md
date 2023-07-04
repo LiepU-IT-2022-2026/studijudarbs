@@ -12,4 +12,4 @@
 | Madars Vagalis | @mAa4a97            |
 | Amanda Vītola  | @voamanda           |
 ***
-[![Run on Repl.it](https://replit.com/badge/github/LiepU-IT-2022-2026/studijudarbs)](https://replit.com/new/github/LiepU-IT-2022-2026/studijudarbs)
+[![Run on Repl.it](https://skolai-gatavs-projekts.xdaavis.repl.co/index.php)
